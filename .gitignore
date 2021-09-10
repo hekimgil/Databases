@@ -1,0 +1,9 @@
+data/
+db/
+.data/
+.idea/
+env/
+env_databases/
+__pycache__/
+*.Rhistory
+~*
